@@ -3,7 +3,7 @@ An actual 8 bit cpu
 
 # Image
 
-![Alt text](./a_cpu.circ "The cpu datapath")
+![Alt text](./a_cpu.png "The cpu datapath")
 
 # What is this?
 
